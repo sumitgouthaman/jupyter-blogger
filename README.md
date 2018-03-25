@@ -84,3 +84,11 @@ pip install nbconvert
 ```bash
 jupyter nbconvert --to html --template basic <your notebook>.ipynb 
 ```
+
+Copy the html generated into a Blogger post. Make sure to choose the HTML option in the Compose/HTML selector at the top.
+
+Finally hit Publish :)
+
+### Demo
+
+If things go right, this is what it shoud look like: http://tensor-therapy.blogspot.com/2018/03/text-content-generation-using-lstms.html
